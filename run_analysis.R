@@ -66,4 +66,4 @@ final<- renamed %>%
 
 #### STEP 6: SAVE NEW DATASET ####
 
-write.table(final, "tidydata_course3.txt", row.name=FALSE)
+write.table(final, "tidydata.txt", row.name=FALSE)
