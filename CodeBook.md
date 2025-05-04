@@ -1,6 +1,6 @@
 # Data Cleaning: wearable computing
 
-## Intro: the dataset
+## Intro: the data
 
 The script run_analysis.R is made to be run on the data about wearable computing found [on this website](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones).
 The data have a series of measurements on different activities perormed by 30 volunteers who wore a smartphone (Samsung Galaxy S II) with an in-built accelerometer and gyroscope on the waist.
